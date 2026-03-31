@@ -12,7 +12,7 @@
 <!-- ANIMATED TYPING ROLE -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00FF9F&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=🛡️+Monitoring+threats+%7C+Defending+systems...;🔐+Breaking+in+ethically+%7C+Securing+the+web...;🐍+Automating+security+%7C+Writing+Python+tools...;🎯+TryHackMe+%7C+HackTheBox+%7C+CTF+Hunter...;🌐+Network+Security+%7C+Threat+Intelligence...;🔍+Web+Vuln+Scanner+%7C+Finding+zero+days...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00FF9F&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=🛡️+Monitoring+threats+%7C+Defending+systems...;🔐+Breaking+in+ethically+%7C+Securing+the+web...;🐍+Automating+security+%7C+Writing+Python+tools...;🎯+TryHackMe+%7C+HackTheBox+%7C+CTF+Hunter...;🌐+Network+Security+%7C+Threat+Intelligence...;🔍+Web+Vuln+Scanner+%7C+Finding+zero+days...;🕵️+CyberScout+%7C+OSINT+%26+Recon+Toolkit...)](https://git.io/typing-svg)
 
 </div>
 
@@ -162,22 +162,55 @@
 
 ### 🚀 Featured Projects
 
+<!-- ──────────── FLAGSHIP / PRIORITY REPOS ──────────── -->
+
+<div align="center">
+
+### ⭐ Flagship Repositories
+
+</div>
+
 <div align="center">
 
 | 🔍 Project | 🛠️ Tech | 📋 Description | 🔗 Link |
 |:---|:---:|:---|:---:|
-| **WebVulnScanner** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat&logo=owasp&logoColor=white) | Automated web vulnerability scanner — detects SQLi, XSS, open redirects & misconfigurations. Built for ethical recon & bug bounty hunting. | [→ View](https://github.com/Subid-Kant/WebVulnScanner) |
-| **Py-L3mon** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | Android device monitoring & remote admin tool. RAT mechanics, payload delivery & mobile threat vectors. | [→ View](https://github.com/Subid-Kant/Py-L3mon) |
-| **OMNET++ Network Sim** | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) | Network topology simulation — DDoS analysis, attack surface mapping, traffic pattern modelling. | [→ View](https://github.com/Subid-Kant/OMNET-) |
-| **ShopFast Assistant** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/-NLP-FF6600?style=flat) | AI-powered e-commerce chatbot with secure API comms and NLP query handling. | [→ View](https://github.com/Subid-Kant/shopfast_assistant) |
+| **🕵️ CyberScout** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![OSINT](https://img.shields.io/badge/-OSINT-00ff9f?style=flat&logoColor=black) | Advanced OSINT & cyber reconnaissance toolkit — automated target profiling, footprinting, and intelligence gathering for ethical recon operations. | [→ View](https://github.com/Subid-Kant/CyberScout) |
+| **📱 Py-L3mon** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | Android device monitoring & remote admin tool. RAT mechanics, payload delivery & mobile threat vectors. | [→ View](https://github.com/Subid-Kant/Py-L3mon) |
+| **🔍 WebVulnScanner** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat&logo=owasp&logoColor=white) | Automated web vulnerability scanner — detects SQLi, XSS, open redirects & misconfigurations. Built for ethical recon & bug bounty hunting. | [→ View](https://github.com/Subid-Kant/WebVulnScanner) |
 
 </div>
 
-<!-- REPO CARDS -->
+<!-- FLAGSHIP REPO CARDS -->
 <div align="center">
 
-[![WebVulnScanner](https://github-readme-stats.vercel.app/api/pin/?username=Subid-Kant&repo=WebVulnScanner&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00ff9f&text_color=ffffff)](https://github.com/Subid-Kant/WebVulnScanner)
+[![CyberScout](https://github-readme-stats.vercel.app/api/pin/?username=Subid-Kant&repo=CyberScout&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00ff9f&text_color=ffffff)](https://github.com/Subid-Kant/CyberScout)
 [![Py-L3mon](https://github-readme-stats.vercel.app/api/pin/?username=Subid-Kant&repo=Py-L3mon&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00ff9f&text_color=ffffff)](https://github.com/Subid-Kant/Py-L3mon)
+[![WebVulnScanner](https://github-readme-stats.vercel.app/api/pin/?username=Subid-Kant&repo=WebVulnScanner&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00ff9f&text_color=ffffff)](https://github.com/Subid-Kant/WebVulnScanner)
+
+</div>
+
+<br/>
+
+<!-- ──────────── OTHER REPOS ──────────── -->
+
+<div align="center">
+
+### 🗂️ More Projects
+
+</div>
+
+<div align="center">
+
+| 🔍 Project | 🛠️ Tech | 📋 Description | 🔗 Link |
+|:---|:---:|:---|:---:|
+| **🌐 OMNET++ Network Sim** | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) | Network topology simulation — DDoS analysis, attack surface mapping, traffic pattern modelling. | [→ View](https://github.com/Subid-Kant/OMNET-) |
+| **🤖 ShopFast Assistant** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/-NLP-FF6600?style=flat) | AI-powered e-commerce chatbot with secure API comms and NLP query handling. | [→ View](https://github.com/Subid-Kant/shopfast_assistant) |
+
+</div>
+
+<!-- MORE REPO CARDS -->
+<div align="center">
+
 [![OMNET-](https://github-readme-stats.vercel.app/api/pin/?username=Subid-Kant&repo=OMNET-&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00ff9f&text_color=ffffff)](https://github.com/Subid-Kant/OMNET-)
 [![shopfast_assistant](https://github-readme-stats.vercel.app/api/pin/?username=Subid-Kant&repo=shopfast_assistant&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00ff9f&text_color=ffffff)](https://github.com/Subid-Kant/shopfast_assistant)
 
